@@ -6,7 +6,13 @@
 
 ## 🌟 Curated Ecosystem of Retail Workforce Management SaaS Platforms & Open-Source Shift Scheduling Engines
 
-[![Awesome](https://awesome.re/badge.svg)](https://github.com/ishandutta2007/Awesome-Awesome-Awesome)
+<p align="center">
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
+  <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Retail-Workforce-Management/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Retail-Workforce-Management?style=flat-square&logo=github" alt="Stars"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Retail-Workforce-Management/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Retail-Workforce-Management?style=flat-square&logo=github" alt="Forks"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Retail-Workforce-Management/pulls"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome"/></a>
+</p>
 
 *A comprehensive, developer-first directory of **Retail Workforce Management (WFM)** solutions, employee scheduling software, AI labor demand forecasting engines, frontline time and attendance systems, fair workweek compliance tools, and open-source constraint-based rostering frameworks.*
 
