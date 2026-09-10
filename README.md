@@ -39,6 +39,7 @@ Modern retail WFM ecosystems are divided into two main categories:
 - [🏗️ Core Architectural Capabilities](#️-core-architectural-capabilities)
 - [⚖️ How to Choose: SaaS vs Open-Source](#️-how-to-choose-saas-vs-open-source)
 - [🤝 How to Contribute](#-how-to-contribute)
+- [📈 Star History](#-star-history)
 - [⚠️ Disclaimer](#️-disclaimer)
 
 ---
@@ -178,6 +179,12 @@ Modern Retail Workforce Management platforms integrate six foundational technolo
 4. 🚀 Submit a PR with a short explanation.
 
 ⭐ Star the repo if you find it useful!
+
+---
+
+## 📈 Star History
+
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Retail-Workforce-Management&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Retail-Workforce-Management&type=date&legend=top-left)
 
 ---
 
