@@ -70,67 +70,67 @@ Modern retail WFM ecosystems are divided into two main categories:
 
 ## 🔓 Open-Source GitHub Projects
 
-- **[OptaPlanner (Apache KIE)](https://github.com/apache/incubator-kie-optaplanner)** [![GitHub stars](https://img.shields.io/github/stars/apache/incubator-kie-optaplanner?style=social&color=white)](https://github.com/apache/incubator-kie-optaplanner/stargazers)  
+- **[OptaPlanner (Apache KIE)](https://github.com/apache/incubator-kie-optaplanner)** [![GitHub_Stars](https://img.shields.io/github/stars/apache/incubator-kie-optaplanner?style=social&color=white)](https://github.com/apache/incubator-kie-optaplanner/stargazers)  
   Leading open-source AI constraint satisfaction solver for shift rostering, employee scheduling, and vehicle routing.
 
-- **[Timefold Solver](https://github.com/TimefoldAI/timefold-solver)** [![GitHub stars](https://img.shields.io/github/stars/TimefoldAI/timefold-solver?style=social&color=white)](https://github.com/TimefoldAI/timefold-solver/stargazers)  
+- **[Timefold Solver](https://github.com/TimefoldAI/timefold-solver)** [![GitHub_Stars](https://img.shields.io/github/stars/TimefoldAI/timefold-solver?style=social&color=white)](https://github.com/TimefoldAI/timefold-solver/stargazers)  
   Open-source AI constraint solver for Java and Kotlin powering automated employee scheduling, shift rostering, and multi-skill workforce optimization.
 
-- **[Staffjoy V2](https://github.com/Staffjoy/v2)** [![GitHub stars](https://img.shields.io/github/stars/Staffjoy/v2?style=social&color=white)](https://github.com/Staffjoy/v2/stargazers)  
+- **[Staffjoy V2](https://github.com/Staffjoy/v2)** [![GitHub_Stars](https://img.shields.io/github/stars/Staffjoy/v2?style=social&color=white)](https://github.com/Staffjoy/v2/stargazers)  
   Influential open-source workforce management application for small businesses and shift-based teams, built with Go and React.
 
-- **[LinkedIn Oncall](https://github.com/linkedin/oncall)** [![GitHub stars](https://img.shields.io/github/stars/linkedin/oncall?style=social&color=white)](https://github.com/linkedin/oncall/stargazers)  
+- **[LinkedIn Oncall](https://github.com/linkedin/oncall)** [![GitHub_Stars](https://img.shields.io/github/stars/linkedin/oncall?style=social&color=white)](https://github.com/linkedin/oncall/stargazers)  
   Battle-tested calendar and shift management tool designed for scheduling shifts, on-call rotations, swaps, and duty schedules.
 
-- **[Staffjoy Suite (V1)](https://github.com/Staffjoy/suite)** [![GitHub stars](https://img.shields.io/github/stars/Staffjoy/suite?style=social&color=white)](https://github.com/Staffjoy/suite/stargazers)  
+- **[Staffjoy Suite (V1)](https://github.com/Staffjoy/suite)** [![GitHub_Stars](https://img.shields.io/github/stars/Staffjoy/suite?style=social&color=white)](https://github.com/Staffjoy/suite/stargazers)  
   Full-featured workforce scheduling suite for hundreds of workers across multiple locations with autoscheduling microservices.
 
-- **[Timefold Quickstarts](https://github.com/TimefoldAI/timefold-quickstarts)** [![GitHub stars](https://img.shields.io/github/stars/TimefoldAI/timefold-quickstarts?style=social&color=white)](https://github.com/TimefoldAI/timefold-quickstarts/stargazers)  
+- **[Timefold Quickstarts](https://github.com/TimefoldAI/timefold-quickstarts)** [![GitHub_Stars](https://img.shields.io/github/stars/TimefoldAI/timefold-quickstarts?style=social&color=white)](https://github.com/TimefoldAI/timefold-quickstarts/stargazers)  
   Reference implementations and starters for employee shift rostering, shift assignment, and constraint-based schedule optimization.
 
-- **[Employee Scheduling UI](https://github.com/martinmicunda/employee-scheduling-ui)** [![GitHub stars](https://img.shields.io/github/stars/martinmicunda/employee-scheduling-ui?style=social&color=white)](https://github.com/martinmicunda/employee-scheduling-ui/stargazers)  
+- **[Employee Scheduling UI](https://github.com/martinmicunda/employee-scheduling-ui)** [![GitHub_Stars](https://img.shields.io/github/stars/martinmicunda/employee-scheduling-ui?style=social&color=white)](https://github.com/martinmicunda/employee-scheduling-ui/stargazers)  
   Modern UI component for employee scheduling applications built with Angular, TypeScript, and RxJS.
 
-- **[OptaWeb Employee Rostering](https://github.com/kiegroup/optaweb-employee-rostering)** [![GitHub stars](https://img.shields.io/github/stars/kiegroup/optaweb-employee-rostering?style=social&color=white)](https://github.com/kiegroup/optaweb-employee-rostering/stargazers)  
+- **[OptaWeb Employee Rostering](https://github.com/kiegroup/optaweb-employee-rostering)** [![GitHub_Stars](https://img.shields.io/github/stars/kiegroup/optaweb-employee-rostering?style=social&color=white)](https://github.com/kiegroup/optaweb-employee-rostering/stargazers)  
   Web application demonstrating automated employee rostering and shift assignments using OptaPlanner, Spring Boot, and React.
 
-- **[OpenSkedge](https://github.com/OfficeStack/OpenSkedge)** [![GitHub stars](https://img.shields.io/github/stars/OfficeStack/OpenSkedge?style=social&color=white)](https://github.com/OfficeStack/OpenSkedge/stargazers)  
+- **[OpenSkedge](https://github.com/OfficeStack/OpenSkedge)** [![GitHub_Stars](https://img.shields.io/github/stars/OfficeStack/OpenSkedge?style=social&color=white)](https://github.com/OfficeStack/OpenSkedge/stargazers)  
   Flexible employee scheduling and shift management web application built upon Symfony and Doctrine for shift worker environments.
 
-- **[pyworkforce](https://github.com/rodrigo-arenas/pyworkforce)** [![GitHub stars](https://img.shields.io/github/stars/rodrigo-arenas/pyworkforce?style=social&color=white)](https://github.com/rodrigo-arenas/pyworkforce/stargazers)  
+- **[pyworkforce](https://github.com/rodrigo-arenas/pyworkforce)** [![GitHub_Stars](https://img.shields.io/github/stars/rodrigo-arenas/pyworkforce?style=social&color=white)](https://github.com/rodrigo-arenas/pyworkforce/stargazers)  
   Python library for workforce planning, queuing models (Erlang C), shift scheduling, rostering, and optimization using constraint programming.
 
-- **[Shift Scheduling with PuLP](https://github.com/lbiedma/shift-scheduling)** [![GitHub stars](https://img.shields.io/github/stars/lbiedma/shift-scheduling?style=social&color=white)](https://github.com/lbiedma/shift-scheduling/stargazers)  
+- **[Shift Scheduling with PuLP](https://github.com/lbiedma/shift-scheduling)** [![GitHub_Stars](https://img.shields.io/github/stars/lbiedma/shift-scheduling?style=social&color=white)](https://github.com/lbiedma/shift-scheduling/stargazers)  
   Python scripts applying Operations Research and Mixed Integer Programming (MIP with PuLP) to solve complex shift-scheduling constraints.
 
-- **[Employee Shift Scheduler](https://github.com/SirChri/employee-shift-scheduler)** [![GitHub stars](https://img.shields.io/github/stars/SirChri/employee-shift-scheduler?style=social&color=white)](https://github.com/SirChri/employee-shift-scheduler/stargazers)  
+- **[Employee Shift Scheduler](https://github.com/SirChri/employee-shift-scheduler)** [![GitHub_Stars](https://img.shields.io/github/stars/SirChri/employee-shift-scheduler?style=social&color=white)](https://github.com/SirChri/employee-shift-scheduler/stargazers)  
   Web application for employee shift scheduling based on React, Java Spring Boot, and MySQL with visual roster boards.
 
-- **[AutoShiftPlanner](https://github.com/betaiotazeta/AutoShiftPlanner)** [![GitHub stars](https://img.shields.io/github/stars/betaiotazeta/AutoShiftPlanner?style=social&color=white)](https://github.com/betaiotazeta/AutoShiftPlanner/stargazers)  
+- **[AutoShiftPlanner](https://github.com/betaiotazeta/AutoShiftPlanner)** [![GitHub_Stars](https://img.shields.io/github/stars/betaiotazeta/AutoShiftPlanner?style=social&color=white)](https://github.com/betaiotazeta/AutoShiftPlanner/stargazers)  
   User-friendly desktop application generating automated, constraint-satisfying shift rosters for multi-shift organizations.
 
-- **[Roster Wizard](https://github.com/galojix/roster-wizard)** [![GitHub stars](https://img.shields.io/github/stars/galojix/roster-wizard?style=social&color=white)](https://github.com/galojix/roster-wizard/stargazers)  
+- **[Roster Wizard](https://github.com/galojix/roster-wizard)** [![GitHub_Stars](https://img.shields.io/github/stars/galojix/roster-wizard?style=social&color=white)](https://github.com/galojix/roster-wizard/stargazers)  
   Automated rostering engine that balances skill-mix requirements, employee preferences, and operational shift rules.
 
-- **[Employee Scheduling Backend](https://github.com/martinmicunda/employee-scheduling)** [![GitHub stars](https://img.shields.io/github/stars/martinmicunda/employee-scheduling?style=social&color=white)](https://github.com/martinmicunda/employee-scheduling/stargazers)  
+- **[Employee Scheduling Backend](https://github.com/martinmicunda/employee-scheduling)** [![GitHub_Stars](https://img.shields.io/github/stars/martinmicunda/employee-scheduling?style=social&color=white)](https://github.com/martinmicunda/employee-scheduling/stargazers)  
   RESTful backend service for employee scheduling applications built with Node.js, Express, and MongoDB.
 
-- **[Timefold Solver Python](https://github.com/TimefoldAI/timefold-solver-python)** [![GitHub stars](https://img.shields.io/github/stars/TimefoldAI/timefold-solver-python?style=social&color=white)](https://github.com/TimefoldAI/timefold-solver-python/stargazers)  
+- **[Timefold Solver Python](https://github.com/TimefoldAI/timefold-solver-python)** [![GitHub_Stars](https://img.shields.io/github/stars/TimefoldAI/timefold-solver-python?style=social&color=white)](https://github.com/TimefoldAI/timefold-solver-python/stargazers)  
   AI constraint solver for Python optimizing employee shift scheduling and complex workforce rostering problems.
 
-- **[MASTERPLAN](https://github.com/schorschii/MASTERPLAN)** [![GitHub stars](https://img.shields.io/github/stars/schorschii/MASTERPLAN?style=social&color=white)](https://github.com/schorschii/MASTERPLAN/stargazers)  
+- **[MASTERPLAN](https://github.com/schorschii/MASTERPLAN)** [![GitHub_Stars](https://img.shields.io/github/stars/schorschii/MASTERPLAN?style=social&color=white)](https://github.com/schorschii/MASTERPLAN/stargazers)  
   Web-based workforce management and duty roster planning software with interactive calendar views and shift self-service.
 
-- **[TimeTables](https://github.com/dlsnyder8/TimeTables)** [![GitHub stars](https://img.shields.io/github/stars/dlsnyder8/TimeTables?style=social&color=white)](https://github.com/dlsnyder8/TimeTables/stargazers)  
+- **[TimeTables](https://github.com/dlsnyder8/TimeTables)** [![GitHub_Stars](https://img.shields.io/github/stars/dlsnyder8/TimeTables?style=social&color=white)](https://github.com/dlsnyder8/TimeTables/stargazers)  
   Open-source employee shift scheduling and management application with automatic schedule generation and availability handling.
 
-- **[DutyDock](https://github.com/dutydock/dutydock)** [![GitHub stars](https://img.shields.io/github/stars/dutydock/dutydock?style=social&color=white)](https://github.com/dutydock/dutydock/stargazers)  
+- **[DutyDock](https://github.com/dutydock/dutydock)** [![GitHub_Stars](https://img.shields.io/github/stars/dutydock/dutydock?style=social&color=white)](https://github.com/dutydock/dutydock/stargazers)  
   Open-source shift planning and rostering software designed for teams with complex scheduling rules and fairness constraints.
 
-- **[Workshift](https://github.com/saccofrancesco/workshift)** [![GitHub stars](https://img.shields.io/github/stars/saccofrancesco/workshift?style=social&color=white)](https://github.com/saccofrancesco/workshift/stargazers)  
+- **[Workshift](https://github.com/saccofrancesco/workshift)** [![GitHub_Stars](https://img.shields.io/github/stars/saccofrancesco/workshift?style=social&color=white)](https://github.com/saccofrancesco/workshift/stargazers)  
   Desktop application for smart shift scheduling, hour tracking, and report exports, built for local and self-hosted use.
 
-- **[Team Schedule](https://github.com/aleksandrrudenko/team-schedule)** [![GitHub stars](https://img.shields.io/github/stars/aleksandrrudenko/team-schedule?style=social&color=white)](https://github.com/aleksandrrudenko/team-schedule/stargazers)  
+- **[Team Schedule](https://github.com/aleksandrrudenko/team-schedule)** [![GitHub_Stars](https://img.shields.io/github/stars/aleksandrrudenko/team-schedule?style=social&color=white)](https://github.com/aleksandrrudenko/team-schedule/stargazers)  
   Follow-the-sun shift scheduling framework for 24/7 distributed teams with workload balancing and on-call rotations.
 
 ---
