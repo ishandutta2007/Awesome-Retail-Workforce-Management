@@ -1,0 +1,119 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 420" width="100%" height="100%">
+  <defs>
+    <!-- Background Gradients -->
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0a0f1d">
+        <animate attributeName="stop-color" values="#0a0f1d;#131b31;#0a0f1d" dur="12s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="50%" stop-color="#181829">
+        <animate attributeName="stop-color" values="#181829;#0f172a;#181829" dur="12s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="100%" stop-color="#0e1f3d">
+        <animate attributeName="stop-color" values="#0e1f3d;#1a1e36;#0e1f3d" dur="12s" repeatCount="indefinite" />
+      </stop>
+    </linearGradient>
+
+    <!-- Accent Title Gradient -->
+    <linearGradient id="titleGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#38bdf8" />
+      <stop offset="50%" stop-color="#818cf8" />
+      <stop offset="100%" stop-color="#34d399" />
+    </linearGradient>
+
+    <!-- Pulsing Ambient Glow -->
+    <radialGradient id="ambientGlow" cx="50%" cy="45%" r="50%">
+      <stop offset="0%" stop-color="#6366f1" stop-opacity="0.35" />
+      <stop offset="70%" stop-color="#38bdf8" stop-opacity="0.05" />
+      <stop offset="100%" stop-color="#0a0f1d" stop-opacity="0" />
+    </radialGradient>
+
+    <!-- Card Background -->
+    <linearGradient id="cardGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1e293b" stop-opacity="0.9" />
+      <stop offset="100%" stop-color="#0f172a" stop-opacity="0.9" />
+    </linearGradient>
+  </defs>
+
+  <style>
+    .title { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; font-size: 46px; font-weight: 800; fill: url(#titleGrad); letter-spacing: -0.5px; }
+    .subtitle { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; font-size: 20px; font-weight: 400; fill: #94a3b8; }
+    .badge-text { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; font-size: 13px; font-weight: 700; fill: #38bdf8; letter-spacing: 1px; }
+    .node-text { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; font-size: 13px; font-weight: 600; fill: #e2e8f0; }
+    .status-text { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; font-size: 13px; font-weight: 500; fill: #cbd5e1; }
+  </style>
+
+  <!-- Background Base -->
+  <rect width="1200" height="420" fill="url(#bgGrad)" rx="16" />
+
+  <!-- Animated Ambient Center Glow -->
+  <circle cx="600" cy="200" r="320" fill="url(#ambientGlow)">
+    <animate attributeName="r" values="280;340;280" dur="8s" repeatCount="indefinite" />
+    <animate attributeName="opacity" values="0.6;1;0.6" dur="8s" repeatCount="indefinite" />
+  </circle>
+
+  <!-- Technical Grid Pattern Lines -->
+  <g opacity="0.12" stroke="#38bdf8" stroke-width="1">
+    <line x1="120" y1="0" x2="120" y2="420" />
+    <line x1="320" y1="0" x2="320" y2="420" />
+    <line x1="520" y1="0" x2="520" y2="420" />
+    <line x1="680" y1="0" x2="680" y2="420" />
+    <line x1="880" y1="0" x2="880" y2="420" />
+    <line x1="1080" y1="0" x2="1080" y2="420" />
+    <line x1="0" y1="80" x2="1200" y2="80" />
+    <line x1="0" y1="210" x2="1200" y2="210" />
+    <line x1="0" y1="340" x2="1200" y2="340" />
+  </g>
+
+  <!-- Orbiting Node 1: Smart Rostering (Top Left) -->
+  <g transform="translate(190, 105)">
+    <rect x="-90" y="-22" width="180" height="44" rx="22" fill="url(#cardGrad)" stroke="#38bdf8" stroke-width="1.5" />
+    <text text-anchor="middle" y="6" class="node-text">📅 Shift Rostering</text>
+    <animateTransform attributeName="transform" type="translate" values="190,105; 190,95; 190,105" dur="4.2s" repeatCount="indefinite" />
+  </g>
+
+  <!-- Orbiting Node 2: AI Demand Forecasting (Top Right) -->
+  <g transform="translate(1010, 105)">
+    <rect x="-105" y="-22" width="210" height="44" rx="22" fill="url(#cardGrad)" stroke="#818cf8" stroke-width="1.5" />
+    <text text-anchor="middle" y="6" class="node-text">📈 Demand Forecasting</text>
+    <animateTransform attributeName="transform" type="translate" values="1010,105; 1010,115; 1010,105" dur="5.1s" repeatCount="indefinite" />
+  </g>
+
+  <!-- Orbiting Node 3: Time and Attendance (Bottom Left) -->
+  <g transform="translate(190, 315)">
+    <rect x="-95" y="-22" width="190" height="44" rx="22" fill="url(#cardGrad)" stroke="#34d399" stroke-width="1.5" />
+    <text text-anchor="middle" y="6" class="node-text">⏱️ Time &amp; Attendance</text>
+    <animateTransform attributeName="transform" type="translate" values="190,315; 190,325; 190,315" dur="4.8s" repeatCount="indefinite" />
+  </g>
+
+  <!-- Orbiting Node 4: Fair Workweek Compliance (Bottom Right) -->
+  <g transform="translate(1010, 315)">
+    <rect x="-105" y="-22" width="210" height="44" rx="22" fill="url(#cardGrad)" stroke="#fbbf24" stroke-width="1.5" />
+    <text text-anchor="middle" y="6" class="node-text">⚖️ Labor Compliance</text>
+    <animateTransform attributeName="transform" type="translate" values="1010,315; 1010,305; 1010,315" dur="4.5s" repeatCount="indefinite" />
+  </g>
+
+  <!-- Center Title Section -->
+  <g transform="translate(600, 175)" text-anchor="middle">
+    <!-- Top Pill Badge -->
+    <rect x="-155" y="-88" width="310" height="32" rx="16" fill="#0f172a" stroke="#38bdf8" stroke-width="1.5" />
+    <text y="-67" class="badge-text">🏪 RETAIL WORKFORCE ECOSYSTEM</text>
+
+    <!-- Main Title -->
+    <text class="title" y="0">Awesome Retail WFM</text>
+
+    <!-- Subtitle -->
+    <text class="subtitle" y="46">Employee Scheduling • AI Demand Forecasting • Frontline Labor Optimization</text>
+  </g>
+
+  <!-- Bottom Interactive Status Bar -->
+  <g transform="translate(600, 360)" text-anchor="middle">
+    <rect x="-275" y="-18" width="550" height="36" rx="18" fill="#1e293b" opacity="0.95" stroke="#475569" stroke-width="1" />
+    <circle cx="-240" cy="0" r="6" fill="#10b981">
+      <animate attributeName="opacity" values="1;0.3;1" dur="2s" repeatCount="indefinite" />
+      <animate attributeName="r" values="5;7;5" dur="2s" repeatCount="indefinite" />
+    </circle>
+    <text x="10" y="5" class="status-text">
+      Curated Comparison of Enterprise SaaS Suites &amp; Open-Source Solvers
+    </text>
+  </g>
+</svg>

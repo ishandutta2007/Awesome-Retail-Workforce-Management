@@ -1,5 +1,9 @@
 # Awesome Retail Workforce Management (WFM)
 
+<p align="center">
+  <img src="assets/banner.svg" alt="Awesome Retail Workforce Management Banner" width="100%">
+</p>
+
 ## Curated Ecosystem of Retail Workforce Management SaaS Platforms & Open-Source Shift Scheduling Engines
 
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/ishandutta2007/Awesome-Awesome-Awesome)
