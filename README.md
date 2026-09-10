@@ -42,6 +42,8 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## SaaS/Hosted Platforms
 
+> **Market Overview & Industry Structure**: The global Workforce Management (WFM) software sector is estimated at **$9.5B – $11.2B in 2026** (projected to exceed **$16B by 2030** at a ~10% CAGR), with retail, restaurants, and frontline operations accounting for over 35% of total spend. The sector is **moderately fragmented**: the large enterprise tier is concentrated among legacy ERP/HCM giants (SAP, UKG, Zebra Reflexis, Dayforce) handling complex multi-country labor compliance, while the mid-market and SMB frontline tier is highly fragmented and vigorously competitive among mobile-first innovators (Deputy, Homebase, When I Work, Connecteam, 7shifts), precluding a single winner-take-all outcome.
+
 | Platform | Company Size (Revenue / Valuation) | Focus / Description | Pricing (Starting Tier) | Free Tier / Free Trial Limits |
 | :--- | :--- | :--- | :--- | :--- |
 | **[SAP SuccessFactors WFM](https://www.sap.com/)** | **~$250B+ Market Cap** (Public: NYSE: SAP; ~$35B Revenue) | Enterprise human experience management (HXM) suite with integrated workforce planning, time tracking, and scheduling. | Starts at **$6.00–$18.00 PEPM** (base Time & Attendance / WFM module; full HCM suite ranges $18.00–$38.00 PEPM) | **30-day free trial** of SAP HCM/Workforce cloud environment with pre-populated sample store shifts and guided tours (no permanent free tier) |
