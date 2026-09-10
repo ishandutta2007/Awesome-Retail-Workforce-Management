@@ -12,6 +12,7 @@
   <a href="https://github.com/ishandutta2007/Awesome-Retail-Workforce-Management/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Retail-Workforce-Management?style=flat-square&logo=github" alt="Stars"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Retail-Workforce-Management/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Retail-Workforce-Management?style=flat-square&logo=github" alt="Forks"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Retail-Workforce-Management/pulls"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome"/></a>
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 </p>
 
 *A comprehensive, developer-first directory of **Retail Workforce Management (WFM)** solutions, employee scheduling software, AI labor demand forecasting engines, frontline time and attendance systems, fair workweek compliance tools, and open-source constraint-based rostering frameworks.*
